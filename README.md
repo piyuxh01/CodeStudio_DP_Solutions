@@ -1,4 +1,4 @@
-CodeStudio Dynamic Programming Problems Solutions
+#CodeStudio Dynamic Programming Problems Solutions
 Overview
 This repository contains solutions to dynamic programming problems from CodeStudio. Dynamic programming is a powerful technique for solving optimization problems by breaking them down into smaller, overlapping subproblems and storing the solutions to these subproblems to avoid redundant computations.
 
